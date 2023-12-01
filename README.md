@@ -43,7 +43,7 @@ Confira o [Dashboard no Power BI](https://app.powerbi.com/view?r=eyJrIjoiYmE0NWI
 ### 🖼️ Imagens do Dashboard
 
 <p float="left">
-  <img src="![image](https://github.com/EvelynLopesSS/Rh-Analysis-Pyspark/assets/113462824/62c3f3af-74ef-4e94-bd51-e8e1d96225ce)" width="400" />
+  <img src="print_dashboard1" width="400" />
   <img src="![image](https://github.com/EvelynLopesSS/Rh-Analysis-Pyspark/assets/113462824/b2f322cf-8342-46ba-b7f0-dca9e9a6102d)" width="400" />
 </p>
 ## 📂📦 Dataset Original
