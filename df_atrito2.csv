@@ -1,0 +1,238 @@
+Idade,Atritoo,ViagemNegocios,TaxaDiaria,Departamento,DistanciaCasa,Educacao,AreaFormacao,ContagemFuncionarios,NumeroFuncionario,SatisfacaoAmbiente,Genero,TaxaHora,EnvolvimentoTrabalho,NivelCargo,Cargo,SatisfacaoTrabalho,EstadoCivil,RendaMensal,TaxaMensal,NumEmpresasTrabalhadas,MaiorIdade,horasExtras,AumentoSalarioPerc,AvaliacaoDesempenho,SatisfacaoRelacionamento,HorasPadrao,NivelOpcaoAcoes,AnosTrabalhadosTotal,TreinamentoUltimoAno,EquilibrioTrabalhoVida,AnosEmpresa,AnosCargoAtual,AnosUltimaPromocao,AnosGerenteAtual
+41,Sim,Raramente,1102,Vendas,1,Graduação,Ciências da Vida,1,1,2,Mulher,94,3,2,Executivo de Vendas,4,Solteiro(a),5993,19479,8,Y,Sim,11,3,1,80,0,8,0,1,6,4,0,5
+37,Sim,Raramente,1373,Pesquisa & Desenvolvimento,2,Graduação,Outro,1,4,4,Homem,92,2,1,Técnico de Laboratório,3,Solteiro(a),2090,2396,6,Y,Sim,15,3,2,80,0,7,3,3,0,0,0,0
+28,Sim,Raramente,103,Pesquisa & Desenvolvimento,24,Bacharelado,Ciências da Vida,1,19,3,Homem,50,2,1,Técnico de Laboratório,3,Solteiro(a),2028,12947,5,Y,Sim,14,3,2,80,0,6,4,3,4,2,0,3
+36,Sim,Raramente,1218,Vendas,9,Mestrado,Ciências da Vida,1,27,3,Homem,82,2,1,Representante de Vendas,1,Solteiro(a),3407,6986,7,Y,Não,23,4,2,80,0,10,4,3,5,3,0,3
+34,Sim,Raramente,699,Pesquisa & Desenvolvimento,6,Ensino Médio,Médica,1,31,2,Homem,83,3,1,Cientista de Pesquisa,1,Solteiro(a),2960,17102,2,Y,Não,11,3,3,80,0,8,2,3,4,2,1,3
+32,Sim,Frequente,1125,Pesquisa & Desenvolvimento,16,Ensino Médio,Ciências da Vida,1,33,2,Mulher,72,1,1,Cientista de Pesquisa,1,Solteiro(a),3919,4681,1,Y,Sim,22,4,2,80,0,10,5,3,10,2,6,7
+39,Sim,Raramente,895,Vendas,5,Bacharelado,Diploma Técnico,1,42,4,Homem,56,3,2,Representante de Vendas,4,Casado(a),2086,3335,3,Y,Não,14,3,3,80,1,19,6,4,1,0,0,0
+24,Sim,Raramente,813,Pesquisa & Desenvolvimento,1,Bacharelado,Médica,1,45,2,Homem,61,3,1,Cientista de Pesquisa,4,Casado(a),2293,3020,2,Y,Sim,16,3,1,80,1,6,2,2,2,0,2,0
+50,Sim,Raramente,869,Vendas,3,Graduação,Marketing,1,47,1,Homem,86,2,1,Representante de Vendas,3,Casado(a),2683,3810,1,Y,Sim,14,3,3,80,0,3,2,3,3,2,0,2
+26,Sim,Raramente,1357,Pesquisa & Desenvolvimento,25,Bacharelado,Ciências da Vida,1,55,1,Homem,48,1,1,Técnico de Laboratório,3,Solteiro(a),2293,10558,1,Y,Não,12,3,3,80,0,1,2,2,1,0,0,1
+41,Sim,Raramente,1360,Pesquisa & Desenvolvimento,12,Bacharelado,Diploma Técnico,1,58,2,Mulher,49,3,5,Diretor de Pesquisa,3,Casado(a),19545,16280,1,Y,Não,12,3,4,80,0,23,0,3,22,15,15,8
+48,Sim,Raramente,626,Pesquisa & Desenvolvimento,1,Graduação,Ciências da Vida,1,64,1,Homem,98,2,3,Técnico de Laboratório,3,Solteiro(a),5381,19294,9,Y,Sim,13,3,4,80,0,23,2,3,1,0,0,0
+28,Sim,Raramente,1434,Pesquisa & Desenvolvimento,5,Mestrado,Diploma Técnico,1,65,3,Homem,50,3,1,Técnico de Laboratório,3,Solteiro(a),3441,11179,1,Y,Sim,13,3,3,80,0,2,3,2,2,2,2,2
+36,Sim,Raramente,318,Pesquisa & Desenvolvimento,9,Bacharelado,Médica,1,90,4,Homem,79,2,1,Cientista de Pesquisa,3,Casado(a),3388,21777,0,Y,Sim,17,3,1,80,1,2,0,2,1,0,0,0
+46,Sim,Raramente,669,Vendas,9,Graduação,Médica,1,118,3,Homem,64,2,3,Executivo de Vendas,4,Solteiro(a),9619,13596,1,Y,Não,16,3,4,80,0,9,3,3,9,8,4,7
+37,Sim,Raramente,807,Recursos Humanos,6,Mestrado,Recursos Humanos,1,133,3,Homem,63,3,1,Recursos Humanos,1,Divorciado(a),2073,23648,4,Y,Sim,22,4,4,80,0,7,3,3,3,2,0,2
+20,Sim,Frequente,871,Pesquisa & Desenvolvimento,6,Bacharelado,Ciências da Vida,1,137,4,Mulher,66,2,1,Técnico de Laboratório,4,Solteiro(a),2926,19783,1,Y,Sim,18,3,2,80,0,1,5,3,1,0,1,0
+25,Sim,Raramente,240,Vendas,5,Bacharelado,Marketing,1,142,3,Homem,46,2,2,Executivo de Vendas,3,Solteiro(a),5744,26959,1,Y,Sim,11,3,4,80,0,6,1,3,6,4,0,3
+34,Sim,Frequente,658,Pesquisa & Desenvolvimento,7,Bacharelado,Ciências da Vida,1,147,1,Homem,66,1,2,Técnico de Laboratório,3,Solteiro(a),6074,22887,1,Y,Sim,24,4,4,80,0,9,3,3,9,7,0,6
+56,Sim,Raramente,441,Pesquisa & Desenvolvimento,14,Mestrado,Ciências da Vida,1,161,2,Mulher,72,3,1,Cientista de Pesquisa,2,Casado(a),4963,4510,9,Y,Sim,18,3,1,80,3,7,2,3,5,4,4,3
+31,Sim,Raramente,249,Vendas,6,Mestrado,Ciências da Vida,1,163,2,Homem,76,1,2,Executivo de Vendas,3,Casado(a),6172,20739,4,Y,Sim,18,3,2,80,0,12,3,2,7,7,7,7
+58,Sim,Raramente,147,Pesquisa & Desenvolvimento,23,Mestrado,Médica,1,165,4,Mulher,94,3,3,Representante de Saúde,4,Casado(a),10312,3465,1,Y,Não,12,3,4,80,1,40,3,2,40,10,15,6
+19,Sim,Raramente,528,Vendas,22,Ensino Médio,Marketing,1,167,4,Homem,50,3,1,Representante de Vendas,3,Solteiro(a),1675,26820,1,Y,Sim,19,3,4,80,0,0,2,2,0,0,0,0
+31,Sim,Raramente,542,Vendas,20,Bacharelado,Ciências da Vida,1,175,2,Mulher,71,1,2,Executivo de Vendas,3,Casado(a),4559,24788,3,Y,Sim,11,3,3,80,1,4,2,3,2,2,2,2
+51,Sim,Frequente,1150,Pesquisa & Desenvolvimento,8,Mestrado,Ciências da Vida,1,179,1,Homem,53,1,3,Diretor de Manufatura,4,Solteiro(a),10650,25150,2,Y,Não,15,3,4,80,0,18,2,3,4,2,0,3
+32,Sim,Raramente,1033,Pesquisa & Desenvolvimento,9,Bacharelado,Médica,1,190,1,Mulher,41,3,1,Técnico de Laboratório,1,Solteiro(a),4200,10224,7,Y,Não,22,4,1,80,0,10,2,4,5,4,0,4
+19,Sim,Frequente,602,Vendas,1,Ensino Médio,Diploma Técnico,1,235,3,Mulher,100,1,1,Representante de Vendas,1,Solteiro(a),2325,20989,0,Y,Não,21,4,1,80,0,1,5,4,0,0,0,0
+19,Sim,Raramente,303,Pesquisa & Desenvolvimento,2,Bacharelado,Ciências da Vida,1,243,2,Homem,47,2,1,Técnico de Laboratório,4,Solteiro(a),1102,9241,1,Y,Não,22,4,3,80,0,1,3,2,1,0,1,0
+41,Sim,Raramente,1356,Vendas,20,Graduação,Marketing,1,248,2,Mulher,70,3,1,Representante de Vendas,2,Solteiro(a),3140,21728,1,Y,Sim,22,4,4,80,0,4,5,2,4,3,0,2
+35,Sim,Raramente,556,Pesquisa & Desenvolvimento,23,Graduação,Ciências da Vida,1,261,2,Homem,50,2,2,Diretor de Manufatura,3,Casado(a),5916,15497,3,Y,Sim,13,3,1,80,0,8,1,3,1,0,0,1
+38,Sim,Raramente,1180,Pesquisa & Desenvolvimento,29,Ensino Médio,Médica,1,282,2,Homem,70,3,2,Representante de Saúde,1,Casado(a),6673,11354,7,Y,Sim,19,3,2,80,0,17,2,3,1,0,0,0
+29,Sim,Raramente,121,Vendas,27,Bacharelado,Marketing,1,283,2,Mulher,35,3,3,Executivo de Vendas,4,Casado(a),7639,24525,1,Y,Não,22,4,4,80,3,10,3,2,10,4,1,9
+32,Sim,Raramente,1045,Vendas,4,Mestrado,Médica,1,291,4,Homem,32,1,3,Executivo de Vendas,4,Casado(a),10400,25812,1,Y,Não,11,3,3,80,0,14,2,2,14,8,9,8
+30,Sim,Raramente,1005,Pesquisa & Desenvolvimento,3,Bacharelado,Diploma Técnico,1,297,4,Mulher,88,3,1,Cientista de Pesquisa,1,Solteiro(a),2657,8556,5,Y,Sim,11,3,3,80,0,8,5,3,5,2,0,4
+30,Sim,Frequente,334,Vendas,26,Mestrado,Marketing,1,299,3,Mulher,52,2,2,Executivo de Vendas,1,Solteiro(a),6696,22967,5,Y,Não,15,3,3,80,0,9,5,2,6,3,0,1
+29,Sim,Raramente,992,Pesquisa & Desenvolvimento,1,Bacharelado,Diploma Técnico,1,300,3,Homem,85,3,1,Cientista de Pesquisa,3,Solteiro(a),2058,19757,0,Y,Não,14,3,4,80,0,7,1,2,6,2,1,5
+29,Sim,Raramente,896,Pesquisa & Desenvolvimento,18,Ensino Médio,Médica,1,315,3,Homem,86,2,1,Cientista de Pesquisa,4,Solteiro(a),2389,14961,1,Y,Sim,13,3,3,80,0,4,3,2,4,3,0,1
+33,Sim,Raramente,813,Pesquisa & Desenvolvimento,14,Bacharelado,Médica,1,325,3,Homem,58,3,1,Técnico de Laboratório,4,Casado(a),2436,22149,5,Y,Sim,13,3,3,80,1,8,2,1,5,4,0,4
+33,Sim,Raramente,465,Pesquisa & Desenvolvimento,2,Graduação,Ciências da Vida,1,328,1,Mulher,39,3,1,Técnico de Laboratório,1,Casado(a),2707,21509,7,Y,Não,20,4,1,80,0,13,3,4,9,7,1,7
+32,Sim,Raramente,515,Pesquisa & Desenvolvimento,1,Bacharelado,Ciências da Vida,1,331,4,Homem,62,2,1,Técnico de Laboratório,3,Solteiro(a),3730,9571,0,Y,Sim,14,3,4,80,0,4,2,1,3,2,1,2
+37,Sim,Frequente,504,Pesquisa & Desenvolvimento,10,Bacharelado,Médica,1,342,1,Homem,61,3,3,Diretor de Manufatura,3,Divorciado(a),10048,22573,6,Y,Não,11,3,2,80,2,17,5,3,1,0,0,0
+31,Sim,Frequente,307,Pesquisa & Desenvolvimento,29,Graduação,Médica,1,355,3,Homem,71,2,1,Técnico de Laboratório,2,Solteiro(a),3479,11652,0,Y,Não,11,3,2,80,0,6,2,4,5,4,1,4
+28,Sim,Raramente,529,Pesquisa & Desenvolvimento,2,Mestrado,Ciências da Vida,1,364,1,Homem,79,3,1,Técnico de Laboratório,3,Solteiro(a),3485,14935,2,Y,Não,11,3,3,80,0,5,5,1,0,0,0,0
+47,Sim,Sem viagens,666,Pesquisa & Desenvolvimento,29,Mestrado,Ciências da Vida,1,376,1,Homem,88,3,3,Gerente,2,Casado(a),11849,10268,1,Y,Sim,12,3,4,80,1,10,2,2,10,7,9,9
+44,Sim,Frequente,920,Pesquisa & Desenvolvimento,24,Bacharelado,Ciências da Vida,1,392,4,Homem,43,3,1,Técnico de Laboratório,3,Divorciado(a),3161,19920,3,Y,Sim,22,4,4,80,1,19,0,1,1,0,0,0
+26,Sim,Raramente,1449,Pesquisa & Desenvolvimento,16,Mestrado,Médica,1,394,1,Homem,45,3,1,Técnico de Laboratório,2,Divorciado(a),2373,14180,2,Y,Sim,13,3,4,80,1,5,2,3,3,2,0,2
+26,Sim,Raramente,950,Vendas,4,Mestrado,Marketing,1,401,4,Homem,48,2,2,Executivo de Vendas,4,Solteiro(a),5828,8450,1,Y,Sim,12,3,2,80,0,8,0,3,8,7,7,4
+18,Sim,Raramente,230,Pesquisa & Desenvolvimento,3,Bacharelado,Ciências da Vida,1,405,3,Homem,54,3,1,Técnico de Laboratório,3,Solteiro(a),1420,25233,1,Y,Não,13,3,3,80,0,0,2,3,0,0,0,0
+52,Sim,Raramente,723,Pesquisa & Desenvolvimento,8,Mestrado,Médica,1,433,3,Homem,85,2,2,Cientista de Pesquisa,2,Casado(a),4941,17747,2,Y,Não,15,3,1,80,0,11,3,2,8,2,7,7
+28,Sim,Raramente,1157,Pesquisa & Desenvolvimento,2,Mestrado,Médica,1,440,1,Homem,84,1,1,Cientista de Pesquisa,4,Casado(a),3464,24737,5,Y,Sim,13,3,4,80,0,5,4,2,3,2,2,2
+39,Sim,Raramente,1162,Vendas,3,Graduação,Médica,1,445,4,Mulher,41,3,2,Executivo de Vendas,3,Casado(a),5238,17778,4,Y,Sim,18,3,1,80,0,12,3,2,1,0,0,0
+29,Sim,Raramente,318,Pesquisa & Desenvolvimento,8,Mestrado,Outro,1,454,2,Homem,77,1,1,Técnico de Laboratório,1,Casado(a),2119,4759,1,Y,Sim,11,3,4,80,0,7,4,2,7,7,0,7
+21,Sim,Frequente,756,Vendas,1,Ensino Médio,Diploma Técnico,1,478,1,Mulher,99,2,1,Representante de Vendas,2,Solteiro(a),2174,9150,1,Y,Sim,11,3,3,80,0,3,3,3,3,2,1,2
+33,Sim,Raramente,350,Vendas,5,Bacharelado,Marketing,1,485,4,Mulher,34,3,1,Representante de Vendas,3,Solteiro(a),2851,9150,1,Y,Sim,13,3,2,80,0,1,2,3,1,0,0,0
+41,Sim,Frequente,143,Vendas,4,Bacharelado,Marketing,1,488,1,Homem,56,3,2,Executivo de Vendas,2,Solteiro(a),9355,9558,1,Y,Não,18,3,3,80,0,8,5,3,8,7,7,7
+40,Sim,Raramente,575,Vendas,22,Graduação,Marketing,1,492,3,Homem,68,2,2,Executivo de Vendas,3,Casado(a),6380,6110,2,Y,Sim,12,3,1,80,2,8,6,3,6,4,1,0
+21,Sim,Raramente,156,Vendas,12,Bacharelado,Ciências da Vida,1,494,3,Mulher,90,4,1,Representante de Vendas,2,Solteiro(a),2716,25422,1,Y,Não,15,3,4,80,0,1,0,3,1,0,0,0
+34,Sim,Sem viagens,1362,Vendas,19,Bacharelado,Marketing,1,502,1,Homem,67,4,2,Executivo de Vendas,4,Solteiro(a),5304,4652,8,Y,Sim,13,3,2,80,0,9,3,2,5,2,0,4
+26,Sim,Frequente,575,Pesquisa & Desenvolvimento,3,Ensino Médio,Diploma Técnico,1,510,3,Homem,73,3,1,Cientista de Pesquisa,1,Solteiro(a),3102,6582,0,Y,Não,22,4,3,80,0,7,2,3,6,4,0,4
+30,Sim,Frequente,464,Pesquisa & Desenvolvimento,4,Bacharelado,Diploma Técnico,1,514,3,Homem,40,3,1,Cientista de Pesquisa,4,Solteiro(a),2285,3427,9,Y,Sim,23,4,3,80,0,3,4,3,1,0,0,0
+25,Sim,Raramente,688,Pesquisa & Desenvolvimento,3,Bacharelado,Médica,1,538,1,Homem,91,3,1,Técnico de Laboratório,1,Casado(a),4031,9396,5,Y,Não,13,3,3,80,1,6,5,3,2,2,0,2
+24,Sim,Raramente,1448,Vendas,1,Ensino Médio,Diploma Técnico,1,554,1,Mulher,62,3,1,Representante de Vendas,2,Solteiro(a),3202,21972,1,Y,Sim,16,3,2,80,0,6,4,3,5,3,1,4
+34,Sim,Frequente,296,Vendas,6,Graduação,Marketing,1,555,4,Mulher,33,1,1,Representante de Vendas,3,Divorciado(a),2351,12253,0,Y,Não,16,3,4,80,1,3,3,2,2,2,1,0
+29,Sim,Raramente,408,Pesquisa & Desenvolvimento,25,Doutorado,Diploma Técnico,1,565,3,Mulher,71,2,1,Cientista de Pesquisa,2,Casado(a),2546,18300,5,Y,Não,16,3,2,80,0,6,2,4,2,2,1,1
+19,Sim,Raramente,489,Recursos Humanos,2,Graduação,Diploma Técnico,1,566,1,Homem,52,2,1,Recursos Humanos,4,Solteiro(a),2564,18437,1,Y,Não,12,3,3,80,0,1,3,4,1,0,0,0
+33,Sim,Raramente,1277,Pesquisa & Desenvolvimento,15,Ensino Médio,Médica,1,582,2,Homem,56,3,3,Gerente,3,Casado(a),13610,24619,7,Y,Sim,12,3,4,80,0,15,2,4,7,6,7,7
+33,Sim,Raramente,587,Pesquisa & Desenvolvimento,10,Ensino Médio,Médica,1,584,1,Homem,38,1,1,Técnico de Laboratório,4,Divorciado(a),3408,6705,7,Y,Não,13,3,1,80,3,8,2,3,4,3,1,3
+31,Sim,Frequente,534,Pesquisa & Desenvolvimento,20,Bacharelado,Ciências da Vida,1,587,1,Homem,66,3,3,Representante de Saúde,3,Casado(a),9824,22908,3,Y,Não,12,3,1,80,0,12,2,3,1,0,0,0
+34,Sim,Frequente,988,Recursos Humanos,23,Bacharelado,Recursos Humanos,1,590,2,Mulher,43,3,3,Recursos Humanos,1,Divorciado(a),9950,11533,9,Y,Sim,15,3,3,80,3,11,2,3,3,2,0,2
+22,Sim,Frequente,1368,Pesquisa & Desenvolvimento,4,Ensino Médio,Diploma Técnico,1,593,3,Homem,99,2,1,Técnico de Laboratório,3,Solteiro(a),3894,9129,5,Y,Não,16,3,3,80,0,4,3,3,2,2,1,2
+26,Sim,Frequente,426,Recursos Humanos,17,Mestrado,Ciências da Vida,1,608,2,Mulher,58,3,1,Recursos Humanos,3,Divorciado(a),2741,22808,0,Y,Sim,11,3,2,80,1,8,2,2,7,7,1,0
+18,Sim,Frequente,1306,Vendas,5,Bacharelado,Marketing,1,614,2,Homem,69,3,1,Representante de Vendas,2,Solteiro(a),1878,8059,1,Y,Sim,14,3,4,80,0,0,3,3,0,0,0,0
+26,Sim,Raramente,471,Pesquisa & Desenvolvimento,24,Bacharelado,Diploma Técnico,1,622,3,Homem,66,1,1,Técnico de Laboratório,4,Solteiro(a),2340,23213,1,Y,Sim,18,3,2,80,0,1,3,1,1,0,0,0
+32,Sim,Sem viagens,1474,Vendas,11,Mestrado,Outro,1,631,4,Homem,60,4,2,Executivo de Vendas,3,Casado(a),4707,23914,8,Y,Não,12,3,4,80,0,6,2,3,4,2,1,2
+24,Sim,Frequente,1287,Pesquisa & Desenvolvimento,7,Bacharelado,Ciências da Vida,1,647,1,Mulher,55,3,1,Técnico de Laboratório,3,Casado(a),2886,14168,1,Y,Sim,16,3,4,80,1,6,4,3,6,3,1,2
+30,Sim,Frequente,448,Vendas,12,Mestrado,Ciências da Vida,1,648,2,Homem,74,2,1,Representante de Vendas,1,Casado(a),2033,14470,1,Y,Não,18,3,3,80,1,1,2,4,1,0,0,0
+31,Sim,Raramente,1365,Vendas,13,Mestrado,Médica,1,650,2,Homem,46,3,2,Executivo de Vendas,1,Divorciado(a),4233,11512,2,Y,Não,17,3,3,80,0,9,2,1,3,1,1,2
+27,Sim,Raramente,1420,Vendas,2,Ensino Médio,Marketing,1,667,3,Homem,85,3,1,Representante de Vendas,1,Divorciado(a),3041,16346,0,Y,Não,11,3,2,80,1,5,3,3,4,3,0,2
+45,Sim,Frequente,306,Vendas,26,Mestrado,Ciências da Vida,1,684,1,Mulher,100,3,2,Executivo de Vendas,1,Casado(a),4286,5630,2,Y,Não,14,3,4,80,2,5,4,3,1,1,0,0
+20,Sim,Raramente,1362,Pesquisa & Desenvolvimento,10,Ensino Médio,Médica,1,701,4,Homem,32,3,1,Cientista de Pesquisa,3,Solteiro(a),1009,26999,1,Y,Sim,11,3,4,80,0,1,5,3,1,0,1,1
+33,Sim,Frequente,1076,Pesquisa & Desenvolvimento,3,Bacharelado,Ciências da Vida,1,702,1,Homem,70,3,1,Cientista de Pesquisa,1,Solteiro(a),3348,3164,1,Y,Sim,11,3,1,80,0,10,3,3,10,8,9,7
+24,Sim,Raramente,693,Vendas,3,Graduação,Ciências da Vida,1,720,1,Mulher,65,3,2,Executivo de Vendas,3,Solteiro(a),4577,24785,9,Y,Não,14,3,1,80,0,4,3,3,2,2,2,0
+50,Sim,Frequente,562,Vendas,8,Graduação,Diploma Técnico,1,723,2,Homem,50,3,2,Executivo de Vendas,3,Casado(a),6796,23452,3,Y,Sim,14,3,1,80,1,18,4,3,4,3,1,3
+28,Sim,Raramente,654,Pesquisa & Desenvolvimento,1,Graduação,Ciências da Vida,1,741,1,Mulher,67,1,1,Cientista de Pesquisa,2,Solteiro(a),2216,3872,7,Y,Sim,13,3,4,80,0,10,4,3,7,7,3,7
+42,Sim,Frequente,933,Pesquisa & Desenvolvimento,19,Bacharelado,Médica,1,752,3,Homem,57,4,1,Cientista de Pesquisa,3,Divorciado(a),2759,20366,6,Y,Sim,12,3,4,80,0,7,2,3,2,2,2,2
+33,Sim,Raramente,527,Pesquisa & Desenvolvimento,1,Mestrado,Outro,1,780,4,Homem,63,3,1,Cientista de Pesquisa,4,Solteiro(a),2686,5207,1,Y,Sim,13,3,3,80,0,10,2,2,10,9,7,8
+47,Sim,Frequente,719,Vendas,27,Graduação,Ciências da Vida,1,785,2,Mulher,77,4,2,Executivo de Vendas,3,Solteiro(a),6397,10339,4,Y,Sim,12,3,4,80,0,8,2,3,5,4,1,3
+55,Sim,Raramente,725,Pesquisa & Desenvolvimento,2,Bacharelado,Médica,1,787,4,Homem,78,3,5,Gerente,1,Casado(a),19859,21199,5,Y,Sim,13,3,4,80,1,24,2,3,5,2,1,4
+26,Sim,Raramente,1146,Vendas,8,Bacharelado,Diploma Técnico,1,796,4,Homem,38,2,2,Executivo de Vendas,1,Solteiro(a),5326,3064,6,Y,Não,17,3,3,80,0,6,2,2,4,3,1,2
+23,Sim,Raramente,1243,Pesquisa & Desenvolvimento,6,Bacharelado,Ciências da Vida,1,811,3,Homem,63,4,1,Técnico de Laboratório,1,Casado(a),1601,3445,1,Y,Sim,21,4,3,80,2,1,2,3,0,0,0,0
+29,Sim,Raramente,805,Pesquisa & Desenvolvimento,1,Graduação,Ciências da Vida,1,816,2,Mulher,36,2,1,Técnico de Laboratório,1,Casado(a),2319,6689,1,Y,Sim,11,3,4,80,1,1,1,3,1,0,0,0
+33,Sim,Raramente,118,Vendas,16,Bacharelado,Marketing,1,819,1,Mulher,69,3,2,Executivo de Vendas,1,Solteiro(a),5324,26507,5,Y,Não,15,3,3,80,0,6,3,3,3,2,0,2
+58,Sim,Raramente,286,Pesquisa & Desenvolvimento,2,Mestrado,Ciências da Vida,1,825,4,Homem,31,3,5,Diretor de Pesquisa,2,Solteiro(a),19246,25761,7,Y,Sim,12,3,4,80,0,40,2,3,31,15,13,8
+28,Sim,Raramente,890,Pesquisa & Desenvolvimento,2,Mestrado,Médica,1,828,3,Homem,46,3,1,Cientista de Pesquisa,3,Solteiro(a),4382,16374,6,Y,Não,17,3,4,80,0,5,3,2,2,2,2,1
+49,Sim,Raramente,1184,Vendas,11,Bacharelado,Marketing,1,840,3,Mulher,43,3,3,Executivo de Vendas,4,Casado(a),7654,5860,1,Y,Não,18,3,1,80,2,9,3,4,9,8,7,7
+55,Sim,Raramente,436,Vendas,2,Ensino Médio,Médica,1,842,3,Homem,37,3,2,Executivo de Vendas,4,Solteiro(a),5160,21519,4,Y,Não,16,3,3,80,0,12,3,2,9,7,7,3
+26,Sim,Frequente,887,Pesquisa & Desenvolvimento,5,Graduação,Médica,1,848,3,Mulher,88,2,1,Cientista de Pesquisa,3,Casado(a),2366,20898,1,Y,Sim,14,3,1,80,1,8,2,3,8,7,1,7
+35,Sim,Frequente,130,Pesquisa & Desenvolvimento,25,Mestrado,Ciências da Vida,1,881,4,Mulher,96,3,1,Cientista de Pesquisa,2,Divorciado(a),2022,16612,1,Y,Sim,19,3,1,80,1,10,3,2,10,2,7,8
+29,Sim,Raramente,341,Vendas,1,Bacharelado,Médica,1,896,2,Mulher,48,2,1,Representante de Vendas,3,Divorciado(a),2800,23522,6,Y,Sim,19,3,3,80,3,5,3,3,3,2,0,2
+32,Sim,Raramente,374,Pesquisa & Desenvolvimento,25,Mestrado,Ciências da Vida,1,911,1,Homem,87,3,1,Técnico de Laboratório,4,Solteiro(a),2795,18016,1,Y,Sim,24,4,3,80,0,1,2,1,1,0,0,1
+58,Sim,Frequente,781,Pesquisa & Desenvolvimento,2,Ensino Médio,Ciências da Vida,1,918,4,Homem,57,2,1,Técnico de Laboratório,4,Divorciado(a),2380,13384,9,Y,Sim,14,3,4,80,1,3,3,2,1,0,0,0
+20,Sim,Raramente,500,Vendas,2,Bacharelado,Médica,1,922,3,Mulher,49,2,1,Representante de Vendas,3,Solteiro(a),2044,22052,1,Y,Não,13,3,4,80,0,2,3,2,2,2,0,2
+21,Sim,Raramente,1427,Pesquisa & Desenvolvimento,18,Ensino Médio,Outro,1,923,4,Mulher,65,3,1,Cientista de Pesquisa,4,Solteiro(a),2693,8870,1,Y,Não,19,3,1,80,0,1,3,2,1,0,0,0
+22,Sim,Raramente,617,Pesquisa & Desenvolvimento,3,Ensino Médio,Ciências da Vida,1,926,2,Mulher,34,3,2,Diretor de Manufatura,3,Casado(a),4171,10022,0,Y,Sim,19,3,1,80,1,4,3,4,3,2,0,2
+41,Sim,Raramente,1085,Pesquisa & Desenvolvimento,2,Mestrado,Ciências da Vida,1,927,2,Mulher,57,1,1,Técnico de Laboratório,4,Divorciado(a),2778,17725,4,Y,Sim,13,3,3,80,1,10,1,2,7,7,1,0
+39,Sim,Raramente,1122,Pesquisa & Desenvolvimento,6,Bacharelado,Médica,1,932,4,Homem,70,3,1,Técnico de Laboratório,1,Casado(a),2404,4303,7,Y,Sim,21,4,4,80,0,8,2,1,2,2,2,2
+25,Sim,Raramente,867,Vendas,19,Graduação,Marketing,1,952,3,Homem,36,2,1,Representante de Vendas,2,Casado(a),2413,18798,1,Y,Sim,18,3,3,80,3,1,2,3,1,0,0,0
+19,Sim,Raramente,419,Vendas,21,Bacharelado,Outro,1,959,4,Homem,37,2,1,Representante de Vendas,2,Solteiro(a),2121,9947,1,Y,Sim,13,3,2,80,0,1,3,4,1,0,0,0
+20,Sim,Raramente,129,Pesquisa & Desenvolvimento,4,Bacharelado,Diploma Técnico,1,960,1,Homem,84,3,1,Técnico de Laboratório,1,Solteiro(a),2973,13008,1,Y,Não,19,3,2,80,0,1,2,3,1,0,0,0
+36,Sim,Raramente,530,Vendas,3,Ensino Médio,Ciências da Vida,1,967,3,Homem,51,2,3,Executivo de Vendas,4,Casado(a),10325,5518,1,Y,Sim,11,3,1,80,1,16,6,3,16,7,3,7
+37,Sim,Raramente,625,Vendas,1,Mestrado,Ciências da Vida,1,970,1,Homem,46,2,3,Executivo de Vendas,3,Casado(a),10609,14922,5,Y,Não,11,3,3,80,0,17,2,1,14,1,11,7
+58,Sim,Raramente,289,Pesquisa & Desenvolvimento,2,Bacharelado,Diploma Técnico,1,977,4,Homem,51,3,1,Cientista de Pesquisa,3,Solteiro(a),2479,26227,4,Y,Não,24,4,1,80,0,7,4,3,1,0,0,0
+40,Sim,Sem viagens,1479,Vendas,24,Bacharelado,Ciências da Vida,1,986,2,Mulher,100,4,4,Executivo de Vendas,2,Solteiro(a),13194,17071,4,Y,Sim,16,3,4,80,0,22,2,2,1,0,0,0
+31,Sim,Sem viagens,335,Pesquisa & Desenvolvimento,9,Graduação,Médica,1,991,3,Homem,46,2,1,Cientista de Pesquisa,1,Solteiro(a),2321,10322,0,Y,Sim,22,4,1,80,0,4,0,3,3,2,1,2
+29,Sim,Raramente,906,Pesquisa & Desenvolvimento,10,Bacharelado,Ciências da Vida,1,994,4,Mulher,92,2,1,Cientista de Pesquisa,1,Solteiro(a),2404,11479,6,Y,Sim,20,4,3,80,0,3,5,3,0,0,0,0
+30,Sim,Raramente,138,Pesquisa & Desenvolvimento,22,Bacharelado,Ciências da Vida,1,1004,1,Mulher,48,3,1,Cientista de Pesquisa,3,Casado(a),2132,11539,4,Y,Sim,11,3,2,80,0,7,2,3,5,2,0,1
+35,Sim,Raramente,622,Pesquisa & Desenvolvimento,14,Mestrado,Outro,1,1010,3,Homem,39,2,1,Técnico de Laboratório,2,Divorciado(a),3743,10074,1,Y,Sim,24,4,4,80,1,5,2,1,4,2,0,2
+20,Sim,Raramente,1097,Pesquisa & Desenvolvimento,11,Bacharelado,Médica,1,1016,4,Mulher,98,2,1,Cientista de Pesquisa,1,Solteiro(a),2600,18275,1,Y,Sim,15,3,1,80,0,1,2,3,1,0,0,0
+30,Sim,Frequente,109,Pesquisa & Desenvolvimento,5,Bacharelado,Médica,1,1017,2,Mulher,60,3,1,Técnico de Laboratório,2,Solteiro(a),2422,25725,0,Y,Não,17,3,1,80,0,4,3,3,3,2,1,2
+37,Sim,Raramente,1141,Pesquisa & Desenvolvimento,11,Graduação,Médica,1,1033,1,Mulher,61,1,2,Representante de Saúde,2,Casado(a),4777,14382,5,Y,Não,15,3,1,80,0,15,2,1,1,0,0,0
+26,Sim,Sem viagens,265,Vendas,29,Graduação,Médica,1,1037,2,Homem,79,1,2,Executivo de Vendas,1,Solteiro(a),4969,21813,8,Y,Não,18,3,4,80,0,7,6,3,2,2,2,2
+52,Sim,Raramente,266,Vendas,2,Ensino Médio,Marketing,1,1038,1,Mulher,57,1,5,Gerente,4,Casado(a),19845,25846,1,Y,Não,15,3,4,80,1,33,3,3,32,14,6,9
+36,Sim,Raramente,885,Pesquisa & Desenvolvimento,16,Mestrado,Ciências da Vida,1,1042,3,Mulher,43,4,1,Técnico de Laboratório,1,Solteiro(a),2743,8269,1,Y,Não,16,3,3,80,0,18,1,3,17,13,15,14
+36,Sim,Raramente,660,Pesquisa & Desenvolvimento,15,Bacharelado,Outro,1,1052,1,Homem,81,3,2,Técnico de Laboratório,3,Divorciado(a),4834,7858,7,Y,Não,14,3,2,80,1,9,3,2,1,0,0,0
+26,Sim,Frequente,342,Pesquisa & Desenvolvimento,2,Bacharelado,Ciências da Vida,1,1053,1,Homem,57,3,1,Cientista de Pesquisa,1,Casado(a),2042,15346,6,Y,Sim,14,3,2,80,1,6,2,3,3,2,1,2
+20,Sim,Frequente,769,Vendas,9,Bacharelado,Marketing,1,1077,4,Mulher,54,3,1,Representante de Vendas,4,Solteiro(a),2323,17205,1,Y,Sim,14,3,2,80,0,2,3,3,2,2,0,2
+21,Sim,Raramente,1334,Pesquisa & Desenvolvimento,10,Bacharelado,Ciências da Vida,1,1079,3,Mulher,36,2,1,Técnico de Laboratório,1,Solteiro(a),1416,17258,1,Y,Não,13,3,1,80,0,1,6,2,1,0,1,0
+51,Sim,Raramente,1323,Pesquisa & Desenvolvimento,4,Mestrado,Ciências da Vida,1,1081,1,Homem,34,3,1,Cientista de Pesquisa,3,Casado(a),2461,10332,9,Y,Sim,12,3,3,80,3,18,2,4,10,0,2,7
+28,Sim,Sem viagens,1366,Pesquisa & Desenvolvimento,24,Graduação,Diploma Técnico,1,1082,2,Homem,72,2,3,Representante de Saúde,1,Solteiro(a),8722,12355,1,Y,Não,12,3,1,80,0,10,2,2,10,7,1,9
+44,Sim,Raramente,1376,Recursos Humanos,1,Graduação,Médica,1,1098,2,Homem,91,2,3,Recursos Humanos,1,Casado(a),10482,2326,9,Y,Não,14,3,4,80,1,24,1,3,20,6,3,6
+35,Sim,Raramente,1204,Vendas,4,Bacharelado,Diploma Técnico,1,1100,4,Homem,86,3,3,Executivo de Vendas,1,Solteiro(a),9582,10333,0,Y,Sim,22,4,1,80,0,9,2,3,8,7,4,7
+33,Sim,Frequente,827,Pesquisa & Desenvolvimento,29,Mestrado,Médica,1,1101,1,Mulher,54,2,2,Cientista de Pesquisa,3,Solteiro(a),4508,3129,1,Y,Não,22,4,2,80,0,14,4,3,13,7,3,8
+25,Sim,Raramente,1219,Pesquisa & Desenvolvimento,4,Ensino Médio,Diploma Técnico,1,1106,4,Homem,32,3,1,Técnico de Laboratório,4,Casado(a),3691,4605,1,Y,Sim,15,3,2,80,1,7,3,4,7,7,5,6
+26,Sim,Raramente,1330,Pesquisa & Desenvolvimento,21,Bacharelado,Médica,1,1107,1,Homem,37,3,1,Técnico de Laboratório,3,Divorciado(a),2377,19373,1,Y,Não,20,4,3,80,1,1,0,2,1,1,0,0
+33,Sim,Raramente,1017,Pesquisa & Desenvolvimento,25,Bacharelado,Médica,1,1108,1,Homem,55,2,1,Cientista de Pesquisa,2,Solteiro(a),2313,2993,4,Y,Sim,20,4,2,80,0,5,0,3,2,2,2,2
+28,Sim,Frequente,1009,Pesquisa & Desenvolvimento,1,Bacharelado,Médica,1,1111,1,Homem,45,2,1,Técnico de Laboratório,2,Divorciado(a),2596,7160,1,Y,Não,15,3,1,80,2,1,2,3,1,0,0,0
+50,Sim,Frequente,959,Vendas,1,Mestrado,Outro,1,1113,4,Homem,81,3,2,Executivo de Vendas,3,Solteiro(a),4728,17251,3,Y,Sim,14,3,4,80,0,5,4,3,0,0,0,0
+39,Sim,Frequente,203,Pesquisa & Desenvolvimento,2,Bacharelado,Ciências da Vida,1,1127,1,Homem,84,3,4,Representante de Saúde,4,Divorciado(a),12169,13547,7,Y,Não,11,3,4,80,3,21,4,3,18,7,11,5
+18,Sim,Sem viagens,247,Pesquisa & Desenvolvimento,8,Ensino Médio,Médica,1,1156,3,Homem,80,3,1,Técnico de Laboratório,3,Solteiro(a),1904,13556,1,Y,Não,12,3,4,80,0,0,0,3,0,0,0,0
+33,Sim,Raramente,603,Vendas,9,Mestrado,Marketing,1,1157,1,Mulher,77,3,2,Executivo de Vendas,1,Solteiro(a),8224,18385,0,Y,Sim,17,3,1,80,0,6,3,3,5,2,0,3
+31,Sim,Frequente,874,Pesquisa & Desenvolvimento,15,Bacharelado,Médica,1,1160,3,Homem,72,3,1,Técnico de Laboratório,3,Casado(a),2610,6233,1,Y,Não,12,3,3,80,1,2,5,2,2,2,2,2
+29,Sim,Raramente,408,Vendas,23,Ensino Médio,Ciências da Vida,1,1165,4,Mulher,45,2,3,Executivo de Vendas,1,Casado(a),7336,11162,1,Y,Não,13,3,1,80,1,11,3,1,11,8,3,10
+42,Sim,Frequente,481,Vendas,12,Bacharelado,Ciências da Vida,1,1167,3,Homem,44,3,4,Executivo de Vendas,1,Solteiro(a),13758,2447,0,Y,Sim,12,3,2,80,0,22,2,2,21,9,13,14
+28,Sim,Raramente,1485,Pesquisa & Desenvolvimento,12,Ensino Médio,Ciências da Vida,1,1175,3,Mulher,79,3,1,Técnico de Laboratório,4,Casado(a),2515,22955,1,Y,Sim,11,3,4,80,0,1,4,2,1,1,0,0
+43,Sim,Raramente,1372,Vendas,9,Bacharelado,Marketing,1,1188,1,Mulher,85,1,2,Executivo de Vendas,3,Solteiro(a),5346,9489,8,Y,Não,13,3,2,80,0,7,2,2,4,3,1,3
+44,Sim,Raramente,1097,Pesquisa & Desenvolvimento,10,Mestrado,Ciências da Vida,1,1200,3,Homem,96,3,1,Cientista de Pesquisa,3,Solteiro(a),2936,10826,1,Y,Sim,11,3,3,80,0,6,4,3,6,4,0,2
+22,Sim,Frequente,1256,Pesquisa & Desenvolvimento,3,Mestrado,Ciências da Vida,1,1203,3,Homem,48,2,1,Cientista de Pesquisa,4,Casado(a),2853,4223,0,Y,Sim,11,3,2,80,1,1,5,3,0,0,0,0
+41,Sim,Sem viagens,906,Pesquisa & Desenvolvimento,5,Graduação,Ciências da Vida,1,1210,1,Homem,95,2,1,Cientista de Pesquisa,1,Divorciado(a),2107,20293,6,Y,Não,17,3,1,80,1,5,2,1,1,0,0,0
+24,Sim,Raramente,984,Pesquisa & Desenvolvimento,17,Graduação,Ciências da Vida,1,1219,4,Mulher,97,3,1,Técnico de Laboratório,2,Casado(a),2210,3372,1,Y,Não,13,3,1,80,1,1,3,1,1,0,0,0
+19,Sim,Sem viagens,504,Pesquisa & Desenvolvimento,10,Bacharelado,Médica,1,1248,1,Mulher,96,2,1,Cientista de Pesquisa,2,Solteiro(a),1859,6148,1,Y,Sim,25,4,2,80,0,1,2,4,1,1,0,0
+25,Sim,Frequente,599,Vendas,24,Ensino Médio,Ciências da Vida,1,1273,3,Homem,73,1,1,Representante de Vendas,4,Solteiro(a),1118,8040,1,Y,Sim,14,3,4,80,0,1,4,3,1,0,1,0
+45,Sim,Raramente,1449,Vendas,2,Bacharelado,Marketing,1,1277,1,Mulher,94,1,5,Gerente,2,Solteiro(a),18824,2493,2,Y,Sim,16,3,1,80,0,26,2,3,24,10,1,11
+21,Sim,Frequente,251,Pesquisa & Desenvolvimento,10,Graduação,Ciências da Vida,1,1279,1,Mulher,45,2,1,Técnico de Laboratório,3,Solteiro(a),2625,25308,1,Y,Não,20,4,3,80,0,2,2,1,2,2,2,2
+44,Sim,Raramente,621,Pesquisa & Desenvolvimento,15,Bacharelado,Médica,1,1295,1,Mulher,73,3,3,Representante de Saúde,4,Casado(a),7978,14075,1,Y,Não,11,3,4,80,1,10,2,3,10,7,0,5
+29,Sim,Raramente,806,Pesquisa & Desenvolvimento,7,Bacharelado,Diploma Técnico,1,1299,2,Mulher,39,3,1,Técnico de Laboratório,3,Divorciado(a),3339,17285,3,Y,Sim,13,3,1,80,2,10,2,3,7,7,7,7
+32,Sim,Raramente,1089,Pesquisa & Desenvolvimento,7,Graduação,Ciências da Vida,1,1309,4,Homem,79,3,2,Técnico de Laboratório,3,Casado(a),4883,22845,1,Y,Não,18,3,1,80,1,10,3,3,10,4,1,1
+39,Sim,Raramente,360,Pesquisa & Desenvolvimento,23,Bacharelado,Médica,1,1310,3,Homem,93,3,1,Cientista de Pesquisa,1,Solteiro(a),3904,22154,0,Y,Não,13,3,1,80,0,6,2,3,5,2,0,3
+40,Sim,Raramente,299,Vendas,25,Mestrado,Marketing,1,1318,4,Homem,57,2,3,Executivo de Vendas,2,Solteiro(a),9094,17235,2,Y,Sim,12,3,3,80,0,9,2,3,5,4,1,0
+52,Sim,Raramente,1030,Vendas,5,Bacharelado,Ciências da Vida,1,1319,2,Homem,64,3,3,Executivo de Vendas,2,Solteiro(a),8446,21534,9,Y,Sim,19,3,3,80,0,10,2,2,8,7,7,7
+31,Sim,Frequente,1060,Vendas,1,Bacharelado,Ciências da Vida,1,1331,4,Mulher,54,3,1,Representante de Vendas,2,Solteiro(a),2302,8319,1,Y,Sim,11,3,1,80,0,3,2,4,3,2,2,2
+44,Sim,Raramente,935,Pesquisa & Desenvolvimento,3,Bacharelado,Ciências da Vida,1,1333,1,Homem,89,3,1,Técnico de Laboratório,1,Casado(a),2362,14669,4,Y,Não,12,3,3,80,0,10,4,4,3,2,1,2
+58,Sim,Raramente,601,Pesquisa & Desenvolvimento,7,Mestrado,Médica,1,1360,3,Mulher,53,2,3,Diretor de Manufatura,1,Casado(a),10008,12023,7,Y,Sim,14,3,4,80,0,31,0,2,10,9,5,9
+55,Sim,Raramente,267,Vendas,13,Mestrado,Marketing,1,1372,1,Homem,85,4,4,Executivo de Vendas,3,Solteiro(a),13695,9277,6,Y,Sim,17,3,3,80,0,24,2,2,19,7,3,8
+31,Sim,Frequente,703,Vendas,2,Bacharelado,Ciências da Vida,1,1379,3,Mulher,90,2,1,Representante de Vendas,4,Solteiro(a),2785,11882,7,Y,Não,14,3,3,80,0,3,3,4,1,0,0,0
+35,Sim,Frequente,662,Vendas,18,Mestrado,Marketing,1,1380,4,Mulher,67,3,2,Executivo de Vendas,3,Casado(a),4614,23288,0,Y,Sim,18,3,3,80,1,5,0,2,4,2,3,2
+31,Sim,Raramente,330,Pesquisa & Desenvolvimento,22,Mestrado,Médica,1,1389,4,Homem,98,3,2,Diretor de Manufatura,3,Casado(a),6179,21057,1,Y,Sim,15,3,4,80,2,10,3,2,10,2,6,7
+27,Sim,Raramente,135,Pesquisa & Desenvolvimento,17,Mestrado,Ciências da Vida,1,1405,4,Mulher,51,3,1,Cientista de Pesquisa,3,Solteiro(a),2394,25681,1,Y,Sim,13,3,4,80,0,8,2,3,8,2,7,7
+49,Sim,Frequente,1475,Pesquisa & Desenvolvimento,28,Graduação,Ciências da Vida,1,1420,1,Homem,97,2,2,Técnico de Laboratório,1,Solteiro(a),4284,22710,3,Y,Não,20,4,1,80,0,20,2,3,4,3,1,3
+29,Sim,Frequente,337,Pesquisa & Desenvolvimento,14,Ensino Médio,Outro,1,1421,3,Mulher,84,3,3,Representante de Saúde,4,Solteiro(a),7553,22930,0,Y,Sim,12,3,1,80,0,9,1,3,8,7,7,7
+31,Sim,Frequente,667,Vendas,1,Mestrado,Ciências da Vida,1,1427,2,Mulher,50,1,1,Representante de Vendas,3,Solteiro(a),1359,16154,1,Y,Não,12,3,2,80,0,1,3,3,1,0,0,0
+31,Sim,Raramente,202,Pesquisa & Desenvolvimento,8,Bacharelado,Ciências da Vida,1,1433,1,Mulher,34,2,1,Cientista de Pesquisa,2,Solteiro(a),1261,22262,1,Y,Não,12,3,3,80,0,1,3,4,1,0,0,0
+25,Sim,Raramente,383,Vendas,9,Graduação,Ciências da Vida,1,1439,1,Homem,68,2,1,Representante de Vendas,1,Casado(a),4400,15182,3,Y,Não,12,3,1,80,0,6,2,3,3,2,2,2
+46,Sim,Raramente,377,Vendas,9,Bacharelado,Marketing,1,1457,1,Homem,52,3,3,Executivo de Vendas,4,Divorciado(a),10096,15986,4,Y,Não,11,3,1,80,1,28,1,4,7,7,4,3
+39,Sim,Sem viagens,592,Pesquisa & Desenvolvimento,2,Bacharelado,Ciências da Vida,1,1458,1,Mulher,54,2,1,Técnico de Laboratório,1,Solteiro(a),3646,17181,2,Y,Sim,23,4,2,80,0,11,2,4,1,0,0,0
+31,Sim,Frequente,1445,Pesquisa & Desenvolvimento,1,Doutorado,Ciências da Vida,1,1459,3,Mulher,100,4,3,Diretor de Manufatura,2,Solteiro(a),7446,8931,1,Y,Não,11,3,1,80,0,10,2,3,10,8,4,7
+31,Sim,Frequente,523,Pesquisa & Desenvolvimento,2,Bacharelado,Ciências da Vida,1,1464,2,Homem,94,3,1,Técnico de Laboratório,4,Casado(a),3722,21081,6,Y,Sim,13,3,3,80,1,7,2,1,2,2,2,2
+34,Sim,Raramente,1107,Recursos Humanos,9,Mestrado,Diploma Técnico,1,1467,1,Mulher,52,3,1,Recursos Humanos,3,Casado(a),2742,3072,1,Y,Não,15,3,4,80,0,2,0,3,2,2,2,2
+28,Sim,Frequente,1496,Vendas,1,Bacharelado,Diploma Técnico,1,1486,1,Homem,92,3,1,Representante de Vendas,3,Casado(a),2909,15747,3,Y,Não,15,3,4,80,1,5,3,4,3,2,1,2
+29,Sim,Frequente,115,Vendas,13,Bacharelado,Diploma Técnico,1,1487,1,Mulher,51,3,2,Executivo de Vendas,2,Solteiro(a),5765,17485,5,Y,Não,11,3,1,80,0,7,4,1,5,3,0,0
+34,Sim,Raramente,790,Vendas,24,Mestrado,Médica,1,1489,1,Mulher,40,2,2,Executivo de Vendas,2,Solteiro(a),4599,7815,0,Y,Sim,23,4,3,80,0,16,2,4,15,9,10,10
+24,Sim,Frequente,381,Pesquisa & Desenvolvimento,9,Bacharelado,Médica,1,1494,2,Homem,89,3,1,Técnico de Laboratório,1,Solteiro(a),3172,16998,2,Y,Sim,11,3,3,80,0,4,2,2,0,0,0,0
+28,Sim,Frequente,289,Pesquisa & Desenvolvimento,2,Graduação,Médica,1,1504,3,Homem,38,2,1,Técnico de Laboratório,1,Solteiro(a),2561,5355,7,Y,Não,11,3,3,80,0,8,2,2,0,0,0,0
+29,Sim,Raramente,224,Pesquisa & Desenvolvimento,1,Mestrado,Diploma Técnico,1,1522,1,Homem,100,2,1,Cientista de Pesquisa,1,Solteiro(a),2362,7568,6,Y,Não,13,3,3,80,0,11,2,1,9,7,0,7
+40,Sim,Raramente,676,Pesquisa & Desenvolvimento,9,Mestrado,Ciências da Vida,1,1534,4,Homem,86,3,1,Técnico de Laboratório,1,Solteiro(a),2018,21831,3,Y,Não,14,3,2,80,0,15,3,1,5,4,1,0
+31,Sim,Frequente,561,Pesquisa & Desenvolvimento,3,Bacharelado,Ciências da Vida,1,1537,4,Mulher,33,3,1,Cientista de Pesquisa,3,Solteiro(a),4084,4156,1,Y,Não,12,3,1,80,0,7,2,1,7,2,7,7
+30,Sim,Raramente,740,Vendas,1,Bacharelado,Ciências da Vida,1,1562,2,Homem,64,2,2,Executivo de Vendas,1,Casado(a),9714,5323,1,Y,Não,11,3,4,80,1,10,4,3,10,8,6,7
+35,Sim,Raramente,104,Pesquisa & Desenvolvimento,2,Bacharelado,Ciências da Vida,1,1569,1,Mulher,69,3,1,Técnico de Laboratório,1,Divorciado(a),2074,26619,1,Y,Sim,12,3,4,80,1,1,2,3,1,0,0,0
+53,Sim,Raramente,607,Pesquisa & Desenvolvimento,2,Doutorado,Diploma Técnico,1,1572,3,Mulher,78,2,3,Diretor de Manufatura,4,Casado(a),10169,14618,0,Y,Não,16,3,2,80,1,34,4,3,33,7,1,9
+38,Sim,Raramente,903,Pesquisa & Desenvolvimento,2,Bacharelado,Médica,1,1573,3,Homem,81,3,2,Diretor de Manufatura,2,Casado(a),4855,7653,4,Y,Não,11,3,1,80,2,7,2,3,5,2,1,4
+28,Sim,Raramente,329,Pesquisa & Desenvolvimento,24,Bacharelado,Médica,1,1604,3,Homem,51,3,1,Técnico de Laboratório,2,Casado(a),2408,7324,1,Y,Sim,17,3,3,80,3,1,3,3,1,1,0,0
+18,Sim,Frequente,544,Vendas,3,Graduação,Médica,1,1624,2,Mulher,70,3,1,Representante de Vendas,4,Solteiro(a),1569,18420,1,Y,Sim,12,3,3,80,0,0,2,4,0,0,0,0
+35,Sim,Raramente,737,Vendas,10,Bacharelado,Médica,1,1639,4,Homem,55,2,3,Executivo de Vendas,1,Casado(a),10306,21530,9,Y,Não,17,3,3,80,0,15,3,3,13,12,6,0
+35,Sim,Raramente,763,Vendas,15,Graduação,Médica,1,1645,1,Homem,59,1,2,Executivo de Vendas,4,Divorciado(a),5440,22098,6,Y,Sim,14,3,4,80,2,7,2,2,2,2,2,2
+40,Sim,Raramente,1329,Pesquisa & Desenvolvimento,7,Bacharelado,Ciências da Vida,1,1649,1,Homem,73,3,1,Técnico de Laboratório,1,Solteiro(a),2166,3339,3,Y,Sim,14,3,2,80,0,10,3,1,4,2,0,3
+35,Sim,Frequente,880,Vendas,12,Mestrado,Outro,1,1667,4,Homem,36,3,2,Executivo de Vendas,4,Solteiro(a),4581,10414,3,Y,Sim,24,4,1,80,0,13,2,4,11,9,6,7
+23,Sim,Raramente,1320,Pesquisa & Desenvolvimento,8,Ensino Médio,Médica,1,1684,4,Homem,93,2,1,Técnico de Laboratório,3,Solteiro(a),3989,20586,1,Y,Sim,11,3,1,80,0,5,2,3,5,4,1,2
+48,Sim,Frequente,708,Vendas,7,Graduação,Médica,1,1691,4,Mulher,95,3,1,Representante de Vendas,3,Casado(a),2655,11740,2,Y,Sim,11,3,3,80,2,19,3,3,9,7,7,7
+32,Sim,Raramente,1259,Pesquisa & Desenvolvimento,2,Mestrado,Ciências da Vida,1,1692,4,Homem,95,3,1,Técnico de Laboratório,2,Solteiro(a),1393,24852,1,Y,Não,12,3,1,80,0,1,2,3,1,0,0,0
+23,Sim,Raramente,427,Vendas,7,Bacharelado,Ciências da Vida,1,1702,3,Homem,99,3,1,Representante de Vendas,4,Divorciado(a),2275,25103,1,Y,Sim,21,4,2,80,1,3,2,3,3,2,0,2
+24,Sim,Raramente,240,Recursos Humanos,22,Ensino Médio,Recursos Humanos,1,1714,4,Homem,58,1,1,Recursos Humanos,3,Casado(a),1555,11585,1,Y,Não,11,3,3,80,1,1,2,3,1,0,0,0
+47,Sim,Frequente,1093,Vendas,9,Bacharelado,Ciências da Vida,1,1716,3,Homem,82,1,4,Executivo de Vendas,3,Casado(a),12936,24164,7,Y,Não,11,3,3,80,0,25,3,1,23,5,14,10
+36,Sim,Raramente,1456,Vendas,13,Doutorado,Marketing,1,1733,2,Homem,96,2,2,Executivo de Vendas,1,Divorciado(a),6134,8658,5,Y,Sim,13,3,2,80,3,16,3,3,2,2,2,2
+32,Sim,Raramente,964,Vendas,1,Graduação,Ciências da Vida,1,1734,1,Homem,34,1,2,Executivo de Vendas,2,Solteiro(a),6735,12147,6,Y,Não,15,3,2,80,0,10,2,3,0,0,0,0
+30,Sim,Frequente,600,Recursos Humanos,8,Bacharelado,Recursos Humanos,1,1747,3,Mulher,66,2,1,Recursos Humanos,4,Divorciado(a),2180,9732,6,Y,Não,11,3,3,80,1,6,0,2,4,2,1,2
+29,Sim,Raramente,428,Vendas,9,Bacharelado,Marketing,1,1752,2,Mulher,52,1,1,Representante de Vendas,2,Solteiro(a),2760,14630,1,Y,Não,13,3,3,80,0,2,3,3,2,2,2,2
+33,Sim,Raramente,211,Vendas,16,Bacharelado,Ciências da Vida,1,1758,1,Mulher,74,3,3,Executivo de Vendas,1,Solteiro(a),8564,10092,2,Y,Sim,20,4,3,80,0,11,2,2,0,0,0,0
+31,Sim,Raramente,1079,Vendas,16,Mestrado,Marketing,1,1761,1,Homem,70,3,3,Executivo de Vendas,3,Casado(a),8161,19002,2,Y,Não,13,3,1,80,3,10,2,3,1,0,0,0
+43,Sim,Frequente,807,Pesquisa & Desenvolvimento,17,Bacharelado,Diploma Técnico,1,1767,3,Homem,38,2,1,Cientista de Pesquisa,3,Casado(a),2437,15587,9,Y,Sim,16,3,4,80,1,6,4,3,1,0,0,0
+21,Sim,Raramente,337,Vendas,7,Ensino Médio,Marketing,1,1780,2,Homem,31,3,1,Representante de Vendas,2,Solteiro(a),2679,4567,1,Y,Não,13,3,2,80,0,1,3,3,1,0,1,0
+22,Sim,Raramente,1294,Pesquisa & Desenvolvimento,8,Ensino Médio,Médica,1,1783,3,Mulher,79,3,1,Técnico de Laboratório,1,Casado(a),2398,15999,1,Y,Sim,17,3,3,80,0,1,6,3,1,0,0,0
+44,Sim,Frequente,429,Pesquisa & Desenvolvimento,1,Graduação,Médica,1,1792,3,Homem,99,3,1,Cientista de Pesquisa,2,Divorciado(a),2342,11092,1,Y,Sim,12,3,3,80,3,6,2,2,5,3,2,3
+35,Sim,Raramente,303,Vendas,27,Bacharelado,Ciências da Vida,1,1797,3,Homem,84,3,2,Executivo de Vendas,4,Solteiro(a),5813,13492,1,Y,Sim,18,3,4,80,0,10,2,3,10,7,7,7
+34,Sim,Frequente,234,Pesquisa & Desenvolvimento,9,Mestrado,Ciências da Vida,1,1807,4,Homem,93,3,2,Técnico de Laboratório,1,Casado(a),5346,6208,4,Y,Não,17,3,3,80,1,11,3,2,7,1,0,7
+37,Sim,Raramente,370,Pesquisa & Desenvolvimento,10,Mestrado,Médica,1,1809,4,Homem,58,3,2,Diretor de Manufatura,1,Solteiro(a),4213,4992,1,Y,Não,15,3,2,80,0,10,4,1,10,3,0,8
+26,Sim,Raramente,920,Recursos Humanos,20,Graduação,Médica,1,1818,4,Mulher,69,3,1,Recursos Humanos,2,Casado(a),2148,6889,0,Y,Sim,11,3,3,80,0,6,3,3,5,1,1,4
+46,Sim,Raramente,261,Pesquisa & Desenvolvimento,21,Graduação,Médica,1,1821,4,Mulher,66,3,2,Representante de Saúde,2,Casado(a),8926,10842,4,Y,Não,22,4,4,80,1,13,2,4,9,7,3,7
+31,Sim,Raramente,359,Recursos Humanos,18,Doutorado,Recursos Humanos,1,1842,4,Homem,89,4,1,Recursos Humanos,1,Casado(a),2956,21495,0,Y,Não,17,3,3,80,0,2,4,3,1,0,0,0
+29,Sim,Raramente,350,Recursos Humanos,13,Bacharelado,Recursos Humanos,1,1844,1,Homem,56,2,1,Recursos Humanos,1,Divorciado(a),2335,3157,4,Y,Sim,15,3,4,80,3,4,3,3,2,2,2,0
+32,Sim,Raramente,414,Vendas,2,Mestrado,Marketing,1,1862,3,Homem,82,2,2,Executivo de Vendas,2,Solteiro(a),9907,26186,7,Y,Sim,12,3,3,80,0,7,3,2,2,2,2,2
+29,Sim,Frequente,459,Pesquisa & Desenvolvimento,24,Graduação,Ciências da Vida,1,1868,4,Homem,73,2,1,Cientista de Pesquisa,4,Solteiro(a),2439,14753,1,Y,Sim,24,4,2,80,0,1,3,2,1,0,1,0
+46,Sim,Raramente,1254,Vendas,10,Bacharelado,Ciências da Vida,1,1869,3,Mulher,64,3,3,Executivo de Vendas,2,Casado(a),7314,14011,5,Y,Não,21,4,3,80,3,14,2,3,8,7,0,7
+30,Sim,Raramente,945,Vendas,9,Bacharelado,Médica,1,1876,2,Homem,89,3,1,Representante de Vendas,4,Solteiro(a),1081,16019,1,Y,Não,13,3,3,80,0,1,3,2,1,0,0,0
+22,Sim,Raramente,391,Pesquisa & Desenvolvimento,7,Ensino Médio,Ciências da Vida,1,1878,4,Homem,75,3,1,Cientista de Pesquisa,2,Solteiro(a),2472,26092,1,Y,Sim,23,4,1,80,0,1,2,3,1,0,0,0
+34,Sim,Sem viagens,967,Pesquisa & Desenvolvimento,16,Mestrado,Diploma Técnico,1,1905,4,Homem,85,1,1,Cientista de Pesquisa,1,Casado(a),2307,14460,1,Y,Sim,23,4,2,80,1,5,2,3,5,2,3,0
+56,Sim,Raramente,1162,Pesquisa & Desenvolvimento,24,Graduação,Ciências da Vida,1,1907,1,Homem,97,3,1,Técnico de Laboratório,4,Solteiro(a),2587,10261,1,Y,Não,16,3,4,80,0,5,3,3,4,2,1,0
+29,Sim,Frequente,746,Vendas,24,Bacharelado,Diploma Técnico,1,1928,3,Homem,45,4,1,Representante de Vendas,1,Solteiro(a),1091,10642,1,Y,Não,17,3,4,80,0,1,3,3,1,0,0,0
+28,Sim,Raramente,1475,Vendas,13,Graduação,Marketing,1,1933,4,Mulher,84,3,2,Executivo de Vendas,3,Solteiro(a),9854,23352,3,Y,Sim,11,3,4,80,0,6,0,3,2,0,2,2
+32,Sim,Frequente,238,Pesquisa & Desenvolvimento,5,Graduação,Ciências da Vida,1,1939,1,Mulher,47,4,1,Cientista de Pesquisa,3,Solteiro(a),2432,15318,3,Y,Sim,14,3,1,80,0,8,2,3,4,1,0,3
+27,Sim,Frequente,1337,Recursos Humanos,22,Bacharelado,Recursos Humanos,1,1944,1,Mulher,58,2,1,Recursos Humanos,2,Casado(a),2863,19555,1,Y,Não,12,3,1,80,0,1,2,3,1,0,0,0
+28,Sim,Raramente,1404,Pesquisa & Desenvolvimento,17,Bacharelado,Diploma Técnico,1,1960,3,Homem,32,2,1,Técnico de Laboratório,4,Divorciado(a),2367,18779,5,Y,Não,12,3,1,80,1,6,2,2,4,1,0,3
+31,Sim,Frequente,754,Vendas,26,Mestrado,Marketing,1,1967,1,Homem,63,3,2,Executivo de Vendas,4,Casado(a),5617,21075,1,Y,Sim,11,3,3,80,0,10,4,3,10,7,0,8
+53,Sim,Raramente,1168,Vendas,24,Mestrado,Ciências da Vida,1,1968,1,Homem,66,3,3,Executivo de Vendas,1,Solteiro(a),10448,5843,6,Y,Sim,13,3,2,80,0,15,2,2,2,2,2,2
+23,Sim,Frequente,638,Vendas,9,Bacharelado,Marketing,1,2023,4,Homem,33,3,1,Representante de Vendas,1,Casado(a),1790,26956,1,Y,Não,19,3,1,80,1,1,3,2,1,0,1,0
+29,Sim,Raramente,1092,Pesquisa & Desenvolvimento,1,Mestrado,Médica,1,2027,1,Homem,36,3,1,Cientista de Pesquisa,4,Casado(a),4787,26124,9,Y,Sim,14,3,2,80,3,4,3,4,2,2,2,2
+56,Sim,Raramente,310,Pesquisa & Desenvolvimento,7,Graduação,Diploma Técnico,1,2032,4,Homem,72,3,1,Técnico de Laboratório,3,Casado(a),2339,3666,8,Y,Não,11,3,4,80,1,14,4,1,10,9,9,8
+50,Sim,Frequente,878,Vendas,1,Mestrado,Ciências da Vida,1,2044,2,Homem,94,3,2,Executivo de Vendas,3,Divorciado(a),6728,14255,7,Y,Não,12,3,4,80,2,12,3,3,6,3,0,1
+50,Sim,Raramente,410,Vendas,28,Bacharelado,Marketing,1,2055,4,Homem,39,2,3,Executivo de Vendas,1,Divorciado(a),10854,16586,4,Y,Sim,13,3,2,80,1,20,3,3,3,2,2,0
