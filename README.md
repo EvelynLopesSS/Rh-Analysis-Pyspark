@@ -42,10 +42,15 @@ Confira o [Dashboard no Power BI](https://app.powerbi.com/view?r=eyJrIjoiYmE0NWI
 
 ### 🖼️ Imagens do Dashboard
 
-<p float="left">
-  <img src="print_dashboard1" width="400" />
-  <img src="print_dashboard2" width="400" />
+<p align="center">
+  <img src="print_dashboard1" width="500" />
+  <img src="print_dashboard2" width="500" />
 </p>
+<p align="center">
+  <img src="print_dashboard3" width="500" />
+</p>
+
+
 ## 📂📦 Dataset Original
 
 Este dataset foi obtido no [Kaggle](https://www.kaggle.com/datasets/thedevastator/employee-attrition-and-factors/data).
