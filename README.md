@@ -44,7 +44,7 @@ Confira o [Dashboard no Power BI](https://app.powerbi.com/view?r=eyJrIjoiYmE0NWI
 
 <p float="left">
   <img src="print_dashboard1" width="400" />
-  <img src="![image](https://github.com/EvelynLopesSS/Rh-Analysis-Pyspark/assets/113462824/b2f322cf-8342-46ba-b7f0-dca9e9a6102d)" width="400" />
+  <img src="print_dashboard2" width="400" />
 </p>
 ## 📂📦 Dataset Original
 
