@@ -1,4 +1,4 @@
-# HR Analytics Project
+# HR Analytics Project <img src="https://spark.apache.org/images/spark-logo-trademark.png" width="70" height="40">
 
 Este projeto de análise de dados de Recursos Humanos explora um conjunto de dados de funcionários e abrange várias análises e transformações.
 
